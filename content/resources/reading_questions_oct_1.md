@@ -4,6 +4,8 @@ description: Communitarian Arguments for Multicultural Citizenship
 file: /courses/17-042-citizenship-and-pluralism-fall-2003/10737b0918396e13c4ddcbfaab68558e_reading_questions_oct_1.pdf
 file_size: 61804
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

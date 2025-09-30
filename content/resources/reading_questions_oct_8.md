@@ -4,6 +4,8 @@ description: Diversity Arguments for Multicultural Citizenship
 file: /courses/17-042-citizenship-and-pluralism-fall-2003/6f57dc764d62ffbe470527edc34b16bb_reading_questions_oct_8.pdf
 file_size: 62948
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

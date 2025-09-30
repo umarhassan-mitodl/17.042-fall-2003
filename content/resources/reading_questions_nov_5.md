@@ -4,6 +4,8 @@ description: Cosmopolitan Views
 file: /courses/17-042-citizenship-and-pluralism-fall-2003/4c6c8d5d36b2365dfc44fdfafd04f2a0_reading_questions_nov_5.pdf
 file_size: 64979
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
