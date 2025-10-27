@@ -4,8 +4,6 @@ description: Civic Republican Views of Citizenship
 file: /courses/17-042-citizenship-and-pluralism-fall-2003/74fb0ea3aceb7445c79470f322d6b43e_reading_questions_oct_22.pdf
 file_size: 79389
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
